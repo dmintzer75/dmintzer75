@@ -26,6 +26,21 @@
 </p>
 <br/>
 
+<h2>Some of My Work</h2>
+
+- [Vegan Food Order App - React.js](https://dmintzer75.github.io/vegan-food-app/)
+- [Task Web App](https://dmintzer75.github.io/task-web-app.io/)
+- [Sample Portfolio](https://dmintzer75.github.io/Myportfolio/)
+- [Material Science Company Landing Page](https://dmintzer75.github.io/MatSci---Website/)
+
+
+<br/>
+<br/>
+
+
+
+
+
 
 ```js
 const DarioMintzer = {
