@@ -28,6 +28,7 @@
 
 <h2>Some of My Work</h2>
 
+- [Shop App - Flutter/Dart](https://dmintzer75.github.io/shop-app/)
 - [Vegan Food Order App - React.js](https://dmintzer75.github.io/vegan-food-app/)
 - [Task Web App](https://dmintzer75.github.io/task-web-app.io/)
 - [Sample Portfolio](https://dmintzer75.github.io/Myportfolio/)
@@ -46,11 +47,11 @@
 const DarioMintzer = {
   pronouns: 'He' || 'Him',
   code: {
-    languages: [ "JavaScript", "TypeScript", "Python", "Swift" ],
+    languages: [ "JavaScript", "Dart", "Python", "Swift" ],
     database: [ "MongoDB", "PostgreSQL", "Redshift" ],
     backEnd: [ "NodeJs", "Express", "Sequelize" ],
-    frontEnd: [ "React", "Redux", "Hooks", "Material UI"],
-    inProgress: [ "React Native", "Flutter" ]
+    frontEnd: [ "Flutter", "React", "Material UI"],
+    inProgress: [ "React Native" ]
   },
   contact: {
     email: "dmintzer75@hotmail.com",
