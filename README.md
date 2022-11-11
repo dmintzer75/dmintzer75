@@ -28,7 +28,7 @@
 
 <h2>Some of My Work</h2>
 
-- [Shop App - Flutter/Dart](https://dmintzer75.github.io/shop-app/)
+<!-- - [Shop App - Flutter/Dart](https://dmintzer75.github.io/shop-app/) -->
 - [Vegan Food Order App - React.js](https://dmintzer75.github.io/vegan-food-app/)
 - [Task Web App](https://dmintzer75.github.io/task-web-app.io/)
 - [Sample Portfolio](https://dmintzer75.github.io/Myportfolio/)
