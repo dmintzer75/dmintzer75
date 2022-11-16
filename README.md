@@ -28,9 +28,9 @@
 
 <h2>Some of My Work</h2>
 
-- [Shop App - Flutter/Dart](https://dmintzer75.github.io/ShopApp/)
-- [Vegan Food Order App - React.js](https://dmintzer75.github.io/vegan-food-app/)
+- [Shop App - Flutter/Dart - Firebase](https://dmintzer75.github.io/ShopApp/)
 - [Task Web App](https://dmintzer75.github.io/task-web-app.io/)
+- [Vegan Food Order App - React.js](https://dmintzer75.github.io/vegan-food-app/)
 - [Sample Portfolio](https://dmintzer75.github.io/Myportfolio/)
 - [Material Science Company Landing Page](https://dmintzer75.github.io/MatSci---Website/)
 
