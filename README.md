@@ -1,6 +1,8 @@
 
 
 <h1 align="center">¡Hey 👋! I'm Dario Mintzer 👨🏻‍💻</h1>
+<h3 align="center">Flutter Developer | Data Scientist</h3><br/> 
+
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
 
 
@@ -28,9 +30,8 @@
 
 <h2>Some of My Work</h2>
 
-- [Basic Coffe Web App] ()
-
-- [Shop App - Flutter/Dart - Firebase](https://dmintzer75.github.io/ShopApp/)
+- [Basic Coffe Web App - Flutter](https://dmintzer75.github.io/coffe_app_flutter/#/)
+- [Shop App - Flutter - Firebase](https://dmintzer75.github.io/ShopApp/)
 - [Task Web App](https://dmintzer75.github.io/task-web-app.io/)
 - [Vegan Food Order App - React.js](https://dmintzer75.github.io/vegan-food-app/)
 - [Sample Portfolio](https://dmintzer75.github.io/Myportfolio/)
