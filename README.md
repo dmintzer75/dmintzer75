@@ -51,11 +51,11 @@
 const DarioMintzer = {
   pronouns: 'He' || 'Him',
   code: {
-    languages: [ "JavaScript", "Dart", "Python", "Swift" ],
+    languages: [ "Dart", "Swift", "JavaScript", "Python" ],
     database: [ "MongoDB", "PostgreSQL", "Redshift" ],
-    backEnd: [ "NodeJs", "Express", "Sequelize" ],
-    frontEnd: [ "Flutter", "React", "Material UI"],
-    inProgress: [ "React Native" ]
+    backEnd: [ "Firebase", "Node.js", "Sequelize" ],
+    frontEnd: [ "Flutter", "React", "Figma"],
+    mobile: [ "Flutter", "SwiftUI"],
   },
   contact: {
     email: "dmintzer75@hotmail.com",
