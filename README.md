@@ -29,13 +29,13 @@
 <br/>
 
 <h2>Some of My Work</h2>
-
-- [Basic Coffe Web App - Flutter](https://dmintzer75.github.io/coffe_app_flutter/#/)
-- [Shop App - Flutter - Firebase](https://dmintzer75.github.io/ShopApp/)
-- [Task Web App](https://dmintzer75.github.io/task-web-app.io/)
-- [Vegan Food Order App - React.js](https://dmintzer75.github.io/vegan-food-app/)
-- [Sample Portfolio](https://dmintzer75.github.io/Myportfolio/)
-- [Material Science Company Landing Page](https://dmintzer75.github.io/MatSci---Website/)
+- [My Portfolio - Flutter & Firebase](https://dario-mintzer-portfolio.web.app)
+- [Shop App - Flutter & Firebase](https://dmintzer75.github.io/ShopApp/)
+- [Basic Coffe App - Flutter](https://dmintzer75.github.io/coffe_app_flutter/#/)
+- [Task Web App - React.js](https://dmintzer75.github.io/task-web-app.io/)
+<!-- - [Vegan Food Order App - React.js](https://dmintzer75.github.io/vegan-food-app/) -->
+<!-- - [Sample Portfolio](https://dmintzer75.github.io/Myportfolio/) -->
+- [Material Science Company Landing Page - Vanilla Javascript](https://dmintzer75.github.io/MatSci---Website/)
 
 
 <br/>
