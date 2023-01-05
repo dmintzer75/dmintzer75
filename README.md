@@ -31,6 +31,7 @@
 <h2>Some of My Work</h2>
 
 - [My Portfolio - Flutter & Firebase](https://dario-mintzer-portfolio.web.app)
+- [Pokedex App - Flutter](https://poke-app-668a2.web.app/#/)
 - [Shop App - Flutter & Firebase](https://dmintzer75.github.io/ShopApp/)
 - [Basic Coffe App - Flutter](https://dmintzer75.github.io/coffe_app_flutter/#/)
 - [Task Web App - React.js](https://dmintzer75.github.io/task-web-app.io/)
